@@ -27,7 +27,9 @@ Watch my [Youtube video](https://www.youtube.com/shorts/5g5ICNt7at0) explanation
 
 ## Adjusted GAA numbers with goalie pull TOI subtracted
 
-11 goalies were affected by this issue. Goalies are sorted in order of `gaa_diff`, which is how much their GAA is affected by the extra ice time. Note that goalies like Frankel and Desbiens weren't really affected because they played a lot of games, and Murphy and Kirk weren't affected too much because they weren't off the ice that long. Hensley, Rooney and Campbell were affected more by playing less games. Levy and Ahola were heavily affected because they only played a few games. Schroeder was heavily affected because 3 of her games were impacted.
+11 goalies were affected by this issue. Goalies are sorted in order of `gaa_diff`, which is how much their GAA is affected by the extra ice time. Note that for every goalie, their TOI decreased and GAA increased. The GAA numbers on the PWHL website (official_gaa) are lower than they should be, which makes these goalie's stats look slightly better than they were. FWIW, I don't think GAA is a super important statistic but I just wanted to demonstrate how TOI can affect other stats.
+
+Goalie-by-goalie analysis: Note that goalies like Frankel and Desbiens weren't really affected because they played a lot of games, and Murphy and Kirk weren't affected too much because they weren't off the ice that long. Hensley, Rooney and Campbell were affected more by playing less games. Levy and Ahola were heavily affected because they only played a few games. Schroeder was heavily affected because 3 of her games were impacted.
 
 | goalie    |   official_gaa |   adjusted_gaa |    gaa_diff | team                 | time_on_ice   |   games_played |   seconds_adjusted |
 |:----------|---------------:|---------------:|------------:|:---------------------|:--------------|---------------:|-------------------:|
