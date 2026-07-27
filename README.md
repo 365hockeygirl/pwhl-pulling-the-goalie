@@ -27,6 +27,8 @@ Watch my [Youtube video](https://www.youtube.com/shorts/5g5ICNt7at0) explanation
 
 ## Adjusted GAA numbers with goalie pull TOI subtracted
 
+11 goalies were affected by this issue. Goalies are sorted in order of `gaa_diff`, which is how much their GAA is affected by the extra ice time. Note that goalies like Frankel and Desbiens weren't really affected because they played a lot of games, and Murphy and Kirk weren't affected too much because they weren't off the ice that long. Hensley, Rooney and Campbell were affected more by playing less games. Levy and Ahola were heavily affected because they only played a few games. Schroeder was heavily affected because 3 of her games were impacted.
+
 | goalie    |   official_gaa |   adjusted_gaa |    gaa_diff | team                 | time_on_ice   |   games_played |   seconds_adjusted |
 |:----------|---------------:|---------------:|------------:|:---------------------|:--------------|---------------:|-------------------:|
 | Ahola     |        1.92591 |        1.96266 | 0.0367489   | Ottawa Charge        | 124:37        |              2 |                140 |
