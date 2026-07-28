@@ -1,0 +1,83 @@
+time_remaining,game_date,home_team_name,away_team_name,game_id,team_id,period_id,time,goalie_in_id,goalie_out_id,goalie_in_info.last_name,goalie_out_info.last_name,team_name,added_manually,total_minutes_in_game,pulling_team_name,extra_attacker_goals,empty_net_goals,scored_extra_attacker_goal,scored_empty_net_goal
+1.2000000000000028,"Friday, November 21, 2025",Minnesota Frost,Toronto Sceptres,210,2,3,18:48,,123,,Rooney,,False,58.8,Minnesota Frost,[],[],False,False
+2.116666666666667,"Friday, November 21, 2025",Vancouver Goldeneyes,Seattle Torrent,211,9,3,17:53,,59,,Maschmeyer,,False,57.88333333333333,Vancouver Goldeneyes,[1066],[],True,False
+2.8333333333333357,"Saturday, November 22, 2025",Ottawa Charge,New York Sirens,212,5,3,17:10,,222,,Philips,,False,57.166666666666664,Ottawa Charge,[],[1071],False,True
+2.8500000000000014,"Sunday, November 23, 2025",Boston Fleet,Montréal Victoire,213,3,3,17:09,,28,,Desbiens,,False,57.15,Montréal Victoire,[],[],False,False
+4.350000000000001,"Tuesday, November 25, 2025",Montréal Victoire,New York Sirens,214,4,3,15:39,,228,,Osborne,,False,55.65,New York Sirens,[],[1078],False,True
+4.56666666666667,"Wednesday, November 26, 2025",Ottawa Charge,Vancouver Goldeneyes,215,9,3,15:26,,59,,Maschmeyer,,False,55.43333333333333,Vancouver Goldeneyes,[],[1084],False,True
+3.4666666666666686,"Friday, November 28, 2025",Seattle Torrent,Minnesota Frost,216,8,3,16:32,,155,,Schroeder,Seattle Torrent,True,56.53333333333333,Seattle Torrent,[],[],False,False
+2.25,"Saturday, November 29, 2025",Toronto Sceptres,Boston Fleet,218,6,3,17:45,,211,,Kirk,,False,57.75,Toronto Sceptres,[],[1098],False,True
+3.2333333333333343,"Tuesday, December  2, 2025",Ottawa Charge,Minnesota Frost,219,5,3,16:46,,222,,Philips,,False,56.766666666666666,Ottawa Charge,[],[1105],False,True
+2.43333333333333,"Wednesday, December  3, 2025",Boston Fleet,Vancouver Goldeneyes,220,9,3,17:34,,59,,Maschmeyer,,False,57.56666666666667,Vancouver Goldeneyes,[],[],False,False
+1.7333333333333343,"Thursday, December  4, 2025",Toronto Sceptres,Ottawa Charge,222,5,3,18:16,,222,,Philips,,False,58.266666666666666,Ottawa Charge,[],[1114],False,True
+2.1666666666666643,"Sunday, December  7, 2025",Montréal Victoire,Toronto Sceptres,224,6,3,17:50,,211,,Kirk,,False,57.833333333333336,Toronto Sceptres,[],[],False,False
+1.4500000000000028,"Tuesday, December 16, 2025",Vancouver Goldeneyes,Ottawa Charge,226,5,3,18:33,,222,,Philips,,False,58.55,Ottawa Charge,[],[],False,False
+2.5,"Wednesday, December 17, 2025",New York Sirens,Boston Fleet,228,4,3,17:30,,228,,Osborne,,False,57.5,New York Sirens,[],[],False,False
+3.8333333333333357,"Wednesday, December 17, 2025",Seattle Torrent,Ottawa Charge,229,5,3,16:10,,238,,Ahola,Ottawa Charge,True,56.166666666666664,Ottawa Charge,[],[1139],False,True
+1.0333333333333314,"Friday, December 19, 2025",Minnesota Frost,Boston Fleet,230,1,3,18:58,,6,,Frankel,,False,58.96666666666667,Boston Fleet,[],"[1146, 1147]",False,True
+3.6000000000000014,"Saturday, December 20, 2025",Vancouver Goldeneyes,Montréal Victoire,231,9,3,16:24,,59,,Maschmeyer,,False,56.4,Vancouver Goldeneyes,[],[],False,False
+2.0833333333333357,"Sunday, December 21, 2025",New York Sirens,Toronto Sceptres,232,4,3,17:55,,228,,Osborne,,False,57.916666666666664,New York Sirens,[],[1159],False,True
+2.9166666666666643,"Sunday, December 21, 2025",Seattle Torrent,Boston Fleet,234,8,3,17:05,,155,,Schroeder,Seattle Torrent,True,57.083333333333336,Seattle Torrent,[1169],[],True,False
+2.56666666666667,"Tuesday, December 23, 2025",Seattle Torrent,Montréal Victoire,236,3,3,17:26,,28,,Desbiens,Montréal Victoire,True,57.43333333333333,Montréal Victoire,[],[],False,False
+2.383333333333333,"Saturday, December 27, 2025",Montréal Victoire,Toronto Sceptres,238,3,3,17:37,,28,,Desbiens,,False,57.61666666666667,Montréal Victoire,[],[],False,False
+1.6499999999999986,"Sunday, December 28, 2025",New York Sirens,Seattle Torrent,240,8,3,18:21,,250,,Murphy,,False,58.35,Seattle Torrent,[],[],False,False
+5.75,"Tuesday, December 30, 2025",Toronto Sceptres,Minnesota Frost,241,6,3,14:15,,211,,Kirk,,False,54.25,Toronto Sceptres,[],[1203],False,True
+3.8333333333333357,"Wednesday, December 31, 2025",New York Sirens,Vancouver Goldeneyes,242,9,3,16:10,,59,,Maschmeyer,,False,56.166666666666664,Vancouver Goldeneyes,[],[],False,False
+3.75,"Friday, January  2, 2026",New York Sirens,Montréal Victoire,243,3,3,16:15,,48,,Abstreiter,,False,56.25,Montréal Victoire,[1213],[],True,False
+3.0833333333333357,"Saturday, January  3, 2026",Ottawa Charge,Minnesota Frost,244,2,3,16:55,,123,,Rooney,Minnesota Frost,True,56.916666666666664,Minnesota Frost,[],[1222],False,True
+1.18333333333333,"Saturday, January  3, 2026",Boston Fleet,Vancouver Goldeneyes,246,1,3,18:49,,6,,Frankel,Boston Fleet,True,58.81666666666667,Boston Fleet,[],[],False,False
+1.2000000000000028,"Sunday, January  4, 2026",Montréal Victoire,Minnesota Frost,247,3,3,18:48,,28,,Desbiens,,False,58.8,Montréal Victoire,[1238],[],True,False
+1.8333333333333357,"Tuesday, January  6, 2026",Toronto Sceptres,New York Sirens,248,6,3,18:10,,85,,Chuli,,False,58.166666666666664,Toronto Sceptres,[],[1241],False,True
+1.8500000000000014,"Friday, January  9, 2026",Ottawa Charge,Vancouver Goldeneyes,249,9,3,18:09,,64,,Campbell,,False,58.15,Vancouver Goldeneyes,[1249],"[1248, 1250]",True,True
+1.2166666666666686,"Wednesday, January  7, 2026",Boston Fleet,Seattle Torrent,250,8,3,18:47,,155,,Schroeder,,False,58.78333333333333,Seattle Torrent,[],[],False,False
+1.7666666666666657,"Sunday, January 11, 2026",Montréal Victoire,Vancouver Goldeneyes,253,9,3,18:14,,59,,Maschmeyer,,False,58.233333333333334,Vancouver Goldeneyes,[],[],False,False
+0.8833333333333329,"Tuesday, January 13, 2026",Montréal Victoire,Ottawa Charge,254,5,3,19:07,,222,,Philips,,False,59.11666666666667,Ottawa Charge,[],[],False,False
+2.7333333333333343,"Wednesday, January 14, 2026",Boston Fleet,Toronto Sceptres,255,6,3,17:16,,211,,Kirk,,False,57.266666666666666,Toronto Sceptres,[1268],[],True,False
+0.13333333333333286,"Sunday, January 18, 2026",New York Sirens,Montréal Victoire,258,3,3,19:52,,28,,Desbiens,,False,59.86666666666667,Montréal Victoire,[],[],False,False
+1.5499999999999972,"Tuesday, January 20, 2026",Seattle Torrent,Toronto Sceptres,261,6,3,18:27,,211,,Kirk,Toronto Sceptres,True,58.45,Toronto Sceptres,[],[],False,False
+1.8666666666666671,"Wednesday, January 21, 2026",Minnesota Frost,Montréal Victoire,262,2,3,18:08,,22,,Hensley,,False,58.13333333333333,Minnesota Frost,[1300],[],True,False
+2.1666666666666643,"Saturday, January 24, 2026",Montréal Victoire,Ottawa Charge,264,5,3,17:50,,222,,Philips,,False,57.833333333333336,Ottawa Charge,[],[1310],False,True
+3.06666666666667,"Sunday, January 25, 2026",Minnesota Frost,New York Sirens,265,4,3,16:56,,228,,Osborne,,False,56.93333333333333,New York Sirens,[],[1318],False,True
+2.633333333333333,"Sunday, January 25, 2026",Seattle Torrent,Vancouver Goldeneyes,266,8,3,17:22,,250,,Murphy,,False,57.36666666666667,Seattle Torrent,[],[],False,False
+1.7166666666666686,"Wednesday, January 28, 2026",Minnesota Frost,Vancouver Goldeneyes,270,9,3,18:17,,64,,Campbell,,False,58.28333333333333,Vancouver Goldeneyes,[],[1343],False,True
+3.633333333333333,"Thursday, February 26, 2026",New York Sirens,Montréal Victoire,271,4,3,16:22,,282,,Shanahan,,False,56.36666666666667,New York Sirens,[],[],False,False
+2.200000000000003,"Friday, February 27, 2026",Seattle Torrent,Toronto Sceptres,272,8,3,17:48,,250,,Murphy,Seattle Torrent,True,57.8,Seattle Torrent,[],"[1355, 1356]",False,True
+1.0,"Sunday, March  1, 2026",Vancouver Goldeneyes,Toronto Sceptres,275,9,3,19:00,,59,,Maschmeyer,,False,59.0,Vancouver Goldeneyes,[],[],False,False
+1.2666666666666657,"Tuesday, March  3, 2026",Toronto Sceptres,Montréal Victoire,276,6,3,18:44,,211,,Kirk,,False,58.733333333333334,Toronto Sceptres,[1375],[],True,False
+1.3999999999999986,"Wednesday, March  4, 2026",Ottawa Charge,Seattle Torrent,277,8,3,18:36,,250,,Murphy,,False,58.6,Seattle Torrent,[],[],False,False
+2.549999999999997,"Thursday, March  5, 2026",New York Sirens,Boston Fleet,278,4,3,17:27,,228,,Osborne,New York Sirens,True,57.45,New York Sirens,[],[],False,False
+1.7000000000000028,"Sunday, March  8, 2026",New York Sirens,Ottawa Charge,279,5,3,18:18,,222,,Philips,,False,58.3,Ottawa Charge,[],[1396],False,True
+2.6666666666666643,"Friday, April  3, 2026",Ottawa Charge,Montréal Victoire,282,5,3,17:20,,222,,Philips,,False,57.333333333333336,Ottawa Charge,[],[1506],False,True
+1.18333333333333,"Wednesday, March 11, 2026",Seattle Torrent,Boston Fleet,283,1,3,18:49,,41,,Levy,Boston Fleet,True,58.81666666666667,Boston Fleet,[],[],False,False
+3.366666666666667,"Friday, March 13, 2026",Minnesota Frost,Seattle Torrent,284,8,3,16:38,,155,,Schroeder,,False,56.63333333333333,Seattle Torrent,[],[1409],False,True
+1.3333333333333357,"Saturday, March 14, 2026",Vancouver Goldeneyes,Ottawa Charge,285,5,3,18:40,,222,,Philips,,False,58.666666666666664,Ottawa Charge,[1413],[],True,False
+9.233333333333334,"Sunday, March 15, 2026",Montréal Victoire,Boston Fleet,286,1,3,10:46,,6,,Frankel,,False,50.766666666666666,Boston Fleet,[1422],[],True,False
+1.9666666666666686,"Sunday, March 15, 2026",Toronto Sceptres,Seattle Torrent,287,8,3,18:02,,250,,Murphy,,False,58.03333333333333,Seattle Torrent,[],[1420],False,True
+2.0333333333333314,"Sunday, March 15, 2026",Minnesota Frost,New York Sirens,288,4,3,17:58,,228,,Osborne,,False,57.96666666666667,New York Sirens,[],[],False,False
+1.3500000000000014,"Tuesday, March 17, 2026",Boston Fleet,Toronto Sceptres,289,1,3,18:39,,6,,Frankel,,False,58.65,Boston Fleet,[],[1432],False,True
+1.5333333333333314,"Wednesday, March 18, 2026",Vancouver Goldeneyes,New York Sirens,291,4,3,18:28,,228,,Osborne,,False,58.46666666666667,New York Sirens,[],[1444],False,True
+1.8833333333333329,"Thursday, March 19, 2026",Montréal Victoire,Seattle Torrent,292,8,3,18:07,,250,,Murphy,,False,58.11666666666667,Seattle Torrent,[],[1449],False,True
+3.133333333333333,"Saturday, March 21, 2026",Vancouver Goldeneyes,Minnesota Frost,293,9,3,16:52,,64,,Campbell,,False,56.86666666666667,Vancouver Goldeneyes,[],[1454],False,True
+0.5833333333333357,"Tuesday, March 24, 2026",Boston Fleet,Vancouver Goldeneyes,296,9,3,19:25,,64,,Campbell,,False,59.416666666666664,Vancouver Goldeneyes,[],[1461],False,True
+2.25,"Wednesday, March 25, 2026",Seattle Torrent,New York Sirens,298,4,3,17:45,,228,,Osborne,,False,57.75,New York Sirens,[],[],False,False
+1.25,"Saturday, March 28, 2026",Montréal Victoire,New York Sirens,300,4,3,18:45,,228,,Osborne,,False,58.75,New York Sirens,[],[],False,False
+1.8333333333333357,"Sunday, March 29, 2026",Toronto Sceptres,Vancouver Goldeneyes,301,6,3,18:10,,85,,Chuli,,False,58.166666666666664,Toronto Sceptres,[],[],False,False
+1.3333333333333357,"Sunday, March 29, 2026",Minnesota Frost,Boston Fleet,302,2,3,18:40,,22,,Hensley,Minnesota Frost,True,58.666666666666664,Minnesota Frost,[],[],False,False
+1.6166666666666671,"Sunday, March 29, 2026",Seattle Torrent,Ottawa Charge,303,8,3,18:23,,155,,Schroeder,Seattle Torrent,True,58.38333333333333,Seattle Torrent,[],[],False,False
+2.2333333333333343,"Wednesday, April  1, 2026",Montréal Victoire,Vancouver Goldeneyes,305,9,3,17:46,,59,,Maschmeyer,,False,57.766666666666666,Vancouver Goldeneyes,[],"[1498, 1499]",False,True
+1.5166666666666657,"Wednesday, April  1, 2026",Ottawa Charge,Toronto Sceptres,306,5,3,18:29,,222,,Philips,,False,58.483333333333334,Ottawa Charge,[],[],False,False
+2.450000000000003,"Saturday, April  4, 2026",Minnesota Frost,Vancouver Goldeneyes,307,9,3,17:33,,59,,Maschmeyer,,False,57.55,Vancouver Goldeneyes,[1518],[],True,False
+1.6166666666666671,"Tuesday, April  7, 2026",Montréal Victoire,Seattle Torrent,309,8,3,18:23,,250,,Murphy,,False,58.38333333333333,Seattle Torrent,[],[1525],False,True
+0.9166666666666643,"Wednesday, April  8, 2026",Ottawa Charge,Seattle Torrent,311,5,3,19:05,,222,,Philips,,False,59.083333333333336,Ottawa Charge,[],[1540],False,True
+2.6666666666666643,"Saturday, April 11, 2026",Minnesota Frost,New York Sirens,312,4,3,17:20,,228,,Osborne,,False,57.333333333333336,New York Sirens,[],[1545],False,True
+1.5,"Saturday, April 11, 2026",Toronto Sceptres,Ottawa Charge,313,6,3,18:30,,211,,Kirk,,False,58.5,Toronto Sceptres,[],[1547],False,True
+2.7666666666666657,"Saturday, April 11, 2026",Boston Fleet,Montréal Victoire,314,1,3,17:14,,6,,Frankel,,False,57.233333333333334,Boston Fleet,[],[],False,False
+1.4500000000000028,"Wednesday, April 15, 2026",New York Sirens,Toronto Sceptres,316,6,3,18:33,,211,,Kirk,,False,58.55,Toronto Sceptres,[],[],False,False
+2.7333333333333343,"Wednesday, April 15, 2026",Boston Fleet,Minnesota Frost,317,2,3,17:16,,22,,Hensley,,False,57.266666666666666,Minnesota Frost,[1563],[],True,False
+4.833333333333336,"Saturday, April 18, 2026",Seattle Torrent,Vancouver Goldeneyes,320,9,3,15:10,,64,,Campbell,Vancouver Goldeneyes,True,55.166666666666664,Vancouver Goldeneyes,"[1583, 1584]",[1582],True,True
+1.68333333333333,"Sunday, April 19, 2026",Minnesota Frost,Toronto Sceptres,321,2,3,18:19,,123,,Rooney,Minnesota Frost,True,58.31666666666667,Minnesota Frost,[],[],False,False
+1.3333333333333357,"Tuesday, April 21, 2026",Toronto Sceptres,New York Sirens,322,4,3,18:40,,228,,Osborne,,False,58.666666666666664,New York Sirens,[],[],False,False
+8.18333333333333,"Tuesday, April 21, 2026",Vancouver Goldeneyes,Montréal Victoire,323,3,3,11:49,,48,,Abstreiter,,False,51.81666666666667,Montréal Victoire,"[1593, 1594, 1595]",[],True,False
+2.2666666666666657,"Wednesday, April 22, 2026",Seattle Torrent,Minnesota Frost,325,2,3,17:44,,22,,Hensley,,False,57.733333333333334,Minnesota Frost,[1607],[],True,False
+5.716666666666669,"Saturday, April 25, 2026",Ottawa Charge,Toronto Sceptres,328,6,3,14:17,,211,,Kirk,,False,54.28333333333333,Toronto Sceptres,[],[1614],False,True
+5.266666666666666,"Saturday, April 25, 2026",Boston Fleet,New York Sirens,329,4,3,14:44,,282,,Shanahan,,False,54.733333333333334,New York Sirens,[],[1611],False,True

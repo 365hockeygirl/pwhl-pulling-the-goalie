@@ -2,7 +2,7 @@
 I realized that at least 14 `goalie_change` events are missing from the official data, and the TOI for those goalies was not updated accordingly. 
 I attempted to manually add these events. 
 
-Code is in [Pulling_the_goalie.ipynb](Pulling_the_goalie.ipynb)
+Code is in [Pulling_the_goalie.ipynb](code/Pulling_the_goalie.ipynb)
 
 Watch my [Youtube video](https://www.youtube.com/shorts/5g5ICNt7at0) explanation or [subscribe to my newsletter](https://365hockeygirl.beehiiv.com/subscribe) to read the full analysis! :D
 
